@@ -1,0 +1,13 @@
+HTTrack3.48-22+htsswf+htsjava launched on Wed, 15 Apr 2020 14:20:05 at http://www.smoothiediet.online/join +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwr2C2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://www.smoothiediet.online/join -O1 "C:\Users\Mariorod\Documents\ADMINISTRACION INSTAGRAM\HISTORIAS CECILIA MARLEY\Smoohite 2" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:20:23	Warning: 	Retry after error -4 (No data (connection closed)) at link www.smoothiediet.online/demopage.me (from www.smoothiediet.online/join)
+14:20:24	Warning: 	Link www.smoothiediet.online/demopage.me not scanned (follow robots meta tag)
+
+HTTrack Website Copier/3.48-22 mirror complete in 19 seconds : 17 links scanned, 15 files written (7681289 bytes overall) [7613107 bytes received at 400689 bytes/sec], 7494711 bytes transferred using HTTP compression in 13 files, ratio 98%, 2.4 requests per connection
+(No errors, 2 warnings, 0 messages)
